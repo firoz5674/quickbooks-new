@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,300i,400,500,600,700&display=swap');
 body { font-family: 'Poppins', sans-serif; }
 h1, h2, h3, h4, h5, h6 { color: #424242; }
-p { color: #575757; font-weight: 300; }
+p { color: #575757; font-weight: 300; font-size: 17px; line-height: 29px; }
 li { color: #575757; }
 
 html {
@@ -46,17 +46,152 @@ html {
 }
 /* //home banner */
 
-/* why need */
-.why-need ul li {
-    line-height: 33px;
+/* quick-intro */
+.quick-intro h1 {
+    font-size: 28px;
 }
-/* //why need */
+.quick-intro p {
+    text-align: justify;
+}
+/* //quick-intro */
 
-/* qb versions */
-.qb-version ul li {
-    line-height: 33px;
+/* common errors */
+.common-errors h3 {
+    font-size: 28px;
 }
-/* //qb versions */
+.common-errors ul li {
+    margin-bottom: 10px;
+}
+/* //common errors */
+
+/* have a look */
+.have-look h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.have-look p {
+    text-align: justify;
+}
+/* //have a look */
+
+/* added-advantage */
+.added-advantage h3 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.added-advantage ul li {
+    display: inline-block;
+}
+.added-advantage .btn-info {
+    margin: 5px;
+    border-radius: 100px;
+    margin-top: 12px;
+    padding: 10px 15px;
+    background-color: #cacaca;
+    color: #3a3a3a;
+    border-color: #cacaca;
+}
+.added-advantage p {
+    text-align: justify;
+}
+/* //added-advantage */
+
+/* features */
+.features h3 {
+    font-size: 28px;
+}
+.features ul li {
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+.features p {
+    text-align: justify;
+}
+/* //features */
+
+/* unlimited-support */
+.unlimited-support h3 {
+    font-size: 28px;
+    line-height: 39px;
+}
+.unlimited-support p {
+    text-align: justify;
+}
+/* //unlimited-support */
+
+/* best-qb-support */
+.best-qb-support h3 {
+    font-size: 28px;
+    line-height: 39px;
+}
+.best-qb-support p {
+    text-align: justify;
+}
+/* //best-qb-support */
+
+/* how-qb-works */
+.how-qb-works h3 {
+    font-size: 28px;
+}
+.how-qb-works h4 {
+    font-size: 20px;
+}
+.how-qb-works p {
+    text-align: justify;
+}
+/* //how-qb-works */
+
+/* FAQ's */
+.faq h3 {
+    font-size: 28px;
+    line-height: 39px;
+}
+.faq h4 {
+    font-size: 19px;
+}
+.faq ol li {
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+.faq strong {
+    color: #9a0505;
+    font-weight: 600;
+}
+/* //FAQ's */
+
+/* how-to-contact */
+.how-to-contact h3 {
+    font-size: 28px;
+    line-height: 39px;
+}
+.how-to-contact h4 {
+    font-size: 19px;
+}
+.how-to-contact p {
+    text-align: justify;
+}
+/* //how-to-contact */
+
+/* how-to-connect */
+.how-to-connect h3 {
+    font-size: 28px;
+    line-height: 39px;
+}
+.how-to-connect p {
+    text-align: justify;
+}
+/* //how-to-connect */
+
+/* why-you-need */
+.why-you-need h3 {
+    font-size: 28px;
+    line-height: 39px;
+}
+.why-you-need p {
+    text-align: justify;
+}
+/* //why-you-need */
+
 
 /* qb-features */
 .qb-features [aria-expanded="false"] > .expanded,
