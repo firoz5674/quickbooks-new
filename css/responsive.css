@@ -13,15 +13,39 @@
     .navbar-brand img {
         width: 130px;
     }
+    .home-banner .carousel-caption {
+        position: absolute;
+        top: 20%;
+        right: 0;
+    }
+    .home-banner .carousel-caption h1 {
+        font-size: 11px;
+    }
 }
 @media (min-width: 376px) and (max-width: 414px) {
     .navbar-brand img {
         width: 140px;
     }
+    .home-banner .carousel-caption {
+        position: absolute;
+        top: 20%;
+        right: 0;
+    }
+    .home-banner .carousel-caption h1 {
+        font-size: 13px;
+    }
 }
 @media (min-width: 415px) and (max-width: 568px) {
     .navbar-brand img {
         width: 150px;
+    }
+    .home-banner .carousel-caption {
+        position: absolute;
+        top: 20%;
+        right: 0;
+    }
+    .home-banner .carousel-caption h1 {
+        font-size: 14px;
     }
 }
 
