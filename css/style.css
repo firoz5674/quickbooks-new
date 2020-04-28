@@ -192,6 +192,15 @@ html {
 }
 /* //why-you-need */
 
+/* .disclaimer */
+.disclaimer h5 {
+    font-size: 28px;
+}
+.disclaimer p {
+    text-align: justify;
+}
+/* //disclaimer */
+
 
 /* qb-features */
 .qb-features [aria-expanded="false"] > .expanded,
@@ -249,4 +258,65 @@ footer ul li {
 footer ul li a {
     color: #fff;
 }
+footer p {
+    color: white;
+}
+
+
+/* contact page */
+.contact-text {
+    padding-left: 20px;
+}
+.contact-text h2 {
+    font-size: 32px;
+    text-transform: capitalize;
+    line-height: 44px;
+}
+.contact-text ul li {
+    color: #575757;
+    list-style: none;
+    line-height: 32px;
+}
+.contact-text ul li a {
+    color: #575757;
+}
+.contact-text .fa-envelope, .fa-phone {
+    padding-right: 10px;
+}
+.contact-form .btn-primary {
+    background: #1f9725;
+    color: #fff;
+    border: none;
+    border-radius: 100px;
+    padding: 12px 23px;
+    margin: 20px 0px;
+}
+label {
+    color: #6c6c6c;
+}
+
+.contact-page .carousel-caption {
+    position: absolute;
+    left: 50%;
+    right: 0;
+    bottom: 45%;
+    text-align: center;
+}
+.contact-page .carousel-caption h1 {
+    font-size: 34px;
+    color: #fff;
+    font-weight: 700;
+}
+/* end of contact page */
+
+
+
+
+
+
+
+
+
+
+
 
