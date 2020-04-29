@@ -50,19 +50,247 @@
 }
 
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .quick-intro h1 {
+        font-size: 22px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .quick-intro h1 {
+        font-size: 25px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .quick-intro h1 {
+        font-size: 26px;
+    }
+}
+@media (min-width: 569px) and (max-width: 674px) {
+    .quick-intro h1 {
+        font-size: 28px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .have-look h2 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .have-look h2 {
+        font-size: 23px;
+        line-height: 32px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .have-look h2 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+}
+@media (min-width: 569px) and (max-width: 674px) {
+    .have-look h2 {
+        font-size: 27px;
+        line-height: 32px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .common-errors h3 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .common-errors h3 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .common-errors h3 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+}
+@media (min-width: 569px) and (max-width: 674px) {
+    .common-errors h3 {
+        font-size: 27px;
+        line-height: 232px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .added-advantage h3 {
+        font-size: 21px;
+        line-height: 23px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .added-advantage h3 {
+        font-size: 23px;
+        line-height: 31px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .added-advantage h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .features h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .features h3 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .features h3 {
+        font-size: 24px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .unlimited-support h3 {
+        font-size: 20px;
+        line-height: 29px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .unlimited-support h3 {
+        font-size: 22px;
+        line-height: 31px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .unlimited-support h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .best-qb-support h3 {
+        font-size: 20px;
+        line-height: 29px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .best-qb-support h3 {
+        font-size: 22px;
+        line-height: 29px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .best-qb-support h3 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .how-qb-works h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .how-qb-works h3 {
+        font-size: 22px;
+        line-height: 31px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .how-qb-works h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .faq h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .faq h4 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .faq h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .faq h4 {
+        font-size: 17px;
+        line-height: 25px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .faq h3 {
+        font-size: 23px;
+        line-height: 31px;
+    }
+    .faq h4 {
+        font-size: 17px;
+        line-height: 25px;
+    }
+}
 
+@media (min-width: 320px) and (max-width: 375px) {
+    .how-to-contact h3 {
+        font-size: 20px;
+        line-height: 29px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .how-to-contact h3 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .how-to-contact h3 {
+        font-size: 23px;
+        line-height: 31px;
+    }
+}
 
-
-
-
-
+@media (min-width: 320px) and (max-width: 375px) {
+    .why-you-need h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .disclaimer h5 {
+        font-size: 20px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .why-you-need h3 {
+        font-size: 22px;
+        line-height: 31px;
+    }
+    .disclaimer h5 {
+        font-size: 22px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .why-you-need h3 {
+        font-size: 24px;
+        line-height: 33px;
+    }
+    .disclaimer h5 {
+        font-size: 25px;
+    }
+}
 
 
