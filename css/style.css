@@ -14,7 +14,7 @@ html {
     margin: 10px 0px;
 }
 .bg-light .navbar-nav .nav-link {
-    padding: 23px 22px;
+    padding: 0px 22px;
     color: #595959;
     text-transform: capitalize;
     font-weight: 600;
@@ -28,7 +28,7 @@ html {
     font-weight: 600;
 }
 .navbar-brand img {
-    width: 170px;
+    width: 80px;
 }
 /* //navbar */
 
@@ -299,7 +299,7 @@ label {
     position: absolute;
     left: 50%;
     right: 0;
-    bottom: 45%;
+    top: 55%;
     text-align: center;
 }
 .contact-page .carousel-caption h1 {
