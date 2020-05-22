@@ -3,9 +3,22 @@
         padding-left: 0;
         padding-right: 0;
     }
-
     .navbar {
         padding: 0;
+    }
+    #navbarContent {
+        position: absolute;
+        width: 109%;
+        top: 58px;
+        left: -16px;
+        z-index: 9999;
+    }
+    .navbar-nav {
+        background-color: #020c20;
+    }
+    .bg-light .navbar-nav .nav-link {
+        color: #fff;
+        padding: 8px 14px;
     }
 }
 
@@ -24,9 +37,6 @@
         font-size: 11px;
     }
 
-    .bg-light .navbar-nav .nav-link {
-        padding: 8px 9px;
-    }
 }
 
 @media (min-width: 376px) and (max-width: 414px) {
@@ -44,9 +54,6 @@
         font-size: 13px;
     }
 
-    .bg-light .navbar-nav .nav-link {
-        padding: 8px 9px;
-    }
 }
 
 @media (min-width: 415px) and (max-width: 568px) {
@@ -64,9 +71,6 @@
         font-size: 14px;
     }
 
-    .bg-light .navbar-nav .nav-link {
-        padding: 8px 9px;
-    }
 }
 
 
@@ -384,3 +388,48 @@
         font-weight: 700;
     }
 }
+
+/* quickbooks-customer-service-banner */
+@media (min-width: 320px) and (max-width: 375px) {
+    .quickbooks-customer-service-banner .carousel-caption {
+        position: absolute;
+        top: 15%;
+        font-weight: 600;
+    }
+    .quickbooks-customer-service-banner .carousel-caption h1 {
+        font-size: 12px;
+    }
+    .quickbooks-customer-service h1, h2, h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .quickbooks-customer-service-banner .carousel-caption {
+        position: absolute;
+        top: 15%;
+        font-weight: 600;
+    }
+    .quickbooks-customer-service-banner .carousel-caption h1 {
+        font-size: 13px;
+    }
+    .quickbooks-customer-service h1, h2, h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+}
+@media (min-width: 415px) and (max-width: 568px) {
+    .quickbooks-customer-service-banner .carousel-caption {
+        position: absolute;
+        top: 15%;
+        font-weight: 600;
+    }
+    .quickbooks-customer-service-banner .carousel-caption h1 {
+        font-size: 13px;
+    }
+    .quickbooks-customer-service h1, h2, h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+}
+/* //quickbooks-customer-service-banner */
