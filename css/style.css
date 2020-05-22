@@ -2,7 +2,7 @@
 body { font-family: 'Poppins', sans-serif; }
 h1, h2, h3, h4, h5, h6 { color: #424242; }
 p { color: #575757; font-weight: 300; font-size: 17px; line-height: 29px; }
-li { color: #575757; }
+li { color: #575757; font-size: 17px; line-height: 30px; margin-bottom: 6px; }
 
 html {
     scroll-behavior: smooth;
@@ -297,7 +297,7 @@ label {
 
 .contact-page .carousel-caption {
     position: absolute;
-    left: 50%;
+    left: 35%;
     right: 0;
     top: 55%;
     text-align: center;
@@ -310,7 +310,25 @@ label {
 /* end of contact page */
 
 
+/* quickbooks customer service */
+.quickbooks-customer-service-banner .carousel-caption {
+    position: absolute;
+    left: 35%;
+    right: 0;
+    top: 32%;
+    text-align: center;
+}
+.quickbooks-customer-service-banner .carousel-caption h1 {
+    font-size: 32px;
+    color: #fff;
+    font-weight: 700;
+}
+.quickbooks-customer-service h1, h2, h3 {
+    font-size: 28px;
+    color: #404040;
+}
 
+/* //quickbooks customer service */
 
 
 

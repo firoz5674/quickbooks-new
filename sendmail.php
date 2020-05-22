@@ -31,7 +31,7 @@ $message = $_POST['message'];
        
         ?>
         <script>
-        window.location.href = "thank-you.html";
+        window.location.href = "./thank-you.html";
         // alert("form submitted");
         // header('Location: thank-you.html');
         </script>
